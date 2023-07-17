@@ -7,6 +7,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://img.freepik.com/premium-photo/sun-clouds-with-pastel-color_35968-103.jpg?w=1380");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
